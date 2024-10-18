@@ -1,3 +1,3 @@
-#1 Depi_Project
+# Depi_Project
 
 #3 Notes
